@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "esp32",
+          "name": "Seonsu Boards",
           "architecture": "esp32",
           "version": "1.0.6",
           "category": "ESP32",
