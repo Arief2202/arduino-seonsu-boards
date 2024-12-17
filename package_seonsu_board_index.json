@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp32",
+      "name": "Seonsu Boards",
       "maintainer": "Seonsu Robotics",
       "websiteURL": "arduino-seonsu-boards",
       "email": "arief.d2202@gmail.com",
@@ -11,9 +11,9 @@
       "platforms": [
         {
           "name": "Seonsu Boards",
-          "architecture": "esp32",
-          "version": "1.0.6",
-          "category": "ESP32",
+          "architecture": "Seonsu Boards",
+          "version": "1.0.0",
+          "category": "Seonsu Boards",
           "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip",
           "archiveFileName": "esp32-1.0.6.zip",
           "checksum": "SHA-256:982da9aaa181b6cb9c692dd4c9622b022ecc0d1e3aa0c5b70428ccc3c1b4556b",
