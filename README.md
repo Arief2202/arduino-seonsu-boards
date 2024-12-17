@@ -4,6 +4,7 @@
 
 ### Need help or have a question? Join the chat at [Gitter](https://gitter.im/espressif/arduino-esp32) or [open a new Discussion](https://github.com/espressif/arduino-esp32/discussions)
 
+
 ## Contents
 
   - [Development Status](#development-status)
