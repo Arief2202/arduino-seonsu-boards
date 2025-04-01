@@ -14,10 +14,10 @@
           "architecture": "Seonsu Boards",
           "version": "1.0.0",
           "category": "Seonsu Boards",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip",
-          "archiveFileName": "esp32-1.0.6.zip",
-          "checksum": "SHA-256:982da9aaa181b6cb9c692dd4c9622b022ecc0d1e3aa0c5b70428ccc3c1b4556b",
-          "size": "51126662",
+          "url": "https://github.com/Arief2202/arduino-seonsu-boards/blob/master/seonsu_board-1.0.0.zip",
+          "archiveFileName": "seonsu_board-1.0.0.zip",
+          "checksum": "SHA-256:23935bb829470c00c5333518b65c69ce4d3ab7f53093560804ca839f832c38a4",
+          "size": "50464710",
           "help": {
             "online": ""
           },
@@ -27,12 +27,6 @@
             },
             {
               "name": "ESP32 Dev Module"
-            },
-            {
-              "name": "WEMOS LoLin32"
-            },
-            {
-              "name": "WEMOS D1 MINI ESP32"
             }
           ],
           "toolsDependencies": [
